@@ -211,11 +211,11 @@ http://112.46.85.60:8009/hls/11/index.m3u8
 http://112.46.85.60:8009/hls/507/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="2酒店",CCTV-13
 http://112.46.85.60:8009/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="2酒店",CCTV-14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="2酒店",CCTV-14
 http://112.46.85.60:8009/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="2酒店",CCTV-15
 http://112.46.85.60:8009/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="CCTV-NEWS" tvg-logo="https://live.fanmingming.com/tv/CCTV-NEWS.png" group-title="2酒店",CCTV-NEWS
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="2酒店",CGTN
 http://112.46.85.60:8009/hls/16/index.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="2酒店",陕西卫视
 http://112.46.85.60:8009/hls/17/index.m3u8
@@ -323,6 +323,8 @@ http://112.46.85.60:8009/hls/72/index.m3u8
 http://112.46.85.60:8009/hls/75/index.m3u8
 #EXTINF:-1 tvg-name="法制天地" tvg-logo="https://live.fanmingming.com/tv/法制天地.png" group-title="2酒店",法制天地
 http://112.46.85.60:8009/hls/76/index.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="2酒店",游戏风云
+http://112.46.85.60:8009/hls/77/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV1HD" tvg-logo="https://live.fanmingming.com/tv/CCTV1HD.png" group-title="3江苏电信",CCTV1
