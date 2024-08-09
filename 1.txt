@@ -1111,7 +1111,7 @@ http://dsm.ccb912.top:9998//rtp/239.93.0.100:5140
 http://dsm.ccb912.top:9998//rtp/239.93.0.142:5140
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="5四川电信",北京纪实科教
 http://dsm.ccb912.top:9998//rtp/239.93.0.141:5140
-#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/上海纪实.png" group-title="5四川电信",上海纪实
+#EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="5四川电信",上海纪实
 http://dsm.ccb912.top:9998//rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="5四川电信",金鹰纪实
 http://dsm.ccb912.top:9998//rtp/239.93.0.130:5140
