@@ -323,8 +323,6 @@ http://112.46.85.60:8009/hls/72/index.m3u8
 http://112.46.85.60:8009/hls/75/index.m3u8
 #EXTINF:-1 tvg-name="法制天地" tvg-logo="https://live.fanmingming.com/tv/法制天地.png" group-title="2酒店",法制天地
 http://112.46.85.60:8009/hls/76/index.m3u8
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="2酒店",游戏风云
-http://112.46.85.60:8009/hls/77/index.m3u8
 
 
 #EXTINF:-1 tvg-name="CCTV1HD" tvg-logo="https://live.fanmingming.com/tv/CCTV1HD.png" group-title="3江苏电信",CCTV1
