@@ -361,10 +361,6 @@ http://home.xshebao.com:8888/rtp/239.49.0.128:8000
 http://home.xshebao.com:8888/rtp/239.49.8.31:8000
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="3江苏电信",CCTV17
 http://home.xshebao.com:8888/rtp/239.49.8.52:9810
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="3江苏电信",CCTV4K
-http://home.xshebao.com:8888/rtp/239.49.0.82:8000
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="3江苏电信",CCTV16 4k
-http://home.xshebao.com:8888/rtp/239.49.0.109:8000
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="3江苏电信",电视指南
 http://home.xshebao.com:8888/rtp/239.49.8.84:8000
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="3江苏电信",第一剧场
@@ -503,6 +499,10 @@ http://home.xshebao.com:8888/rtp/239.49.8.193:8000
 http://home.xshebao.com:8888/rtp/239.49.0.205:8000
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="3江苏电信",文物宝库
 http://home.xshebao.com:8888/rtp/239.49.0.209:8000
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="3江苏电信",CCTV4K
+http://home.xshebao.com:8888/rtp/239.49.0.82:8000
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="3江苏电信",CCTV16 4k
+http://home.xshebao.com:8888/rtp/239.49.0.109:8000
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="4广东电信",CCTV-1
@@ -545,18 +545,6 @@ http://newkoyuen.familyds.com:4000/rtp/239.77.1.11:5146
 http://newkoyuen.familyds.com:4000/rtp/239.77.0.165:5146
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="4广东电信",CCTV-17
 http://newkoyuen.familyds.com:4000/rtp/239.77.0.198:5146
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4广东电信",CCTV-4k
-http://newkoyuen.familyds.com:4000/rtp/239.77.0.194:5146
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4广东电信",CCTV-4k
-http://newkoyuen.familyds.com:4000/rtp/239.77.0.174:5146
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4广东电信",CCTV-4k
-http://newkoyuen.familyds.com:4000/rtp/239.77.1.180:5146
-#EXTINF:-1 tvg-name="广东4K" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="4广东电信",广东-4k
-http://newkoyuen.familyds.com:4000/rtp/239.77.0.244:5146
-#EXTINF:-1 tvg-name="广东4K" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="4广东电信",广东-4k
-http://newkoyuen.familyds.com:4000/rtp/239.77.0.252:5146
-#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="4广东电信",南国都市4k
-http://newkoyuen.familyds.com:4000/rtp/239.253.43.99:5146
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="4广东电信",CHC影迷电影
 http://newkoyuen.familyds.com:4000/rtp/239.77.0.27:5146
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="4广东电信",CCTV-电视指南
@@ -897,10 +885,6 @@ http://newkoyuen.familyds.com:4000/rtp/239.253.43.200:5146
 http://newkoyuen.familyds.com:4000/rtp/239.253.43.201:5146
 #EXTINF:-1 tvg-name="爱生活" tvg-logo="https://live.fanmingming.com/tv/爱生活.png" group-title="4广东电信",爱生活
 http://newkoyuen.familyds.com:4000/rtp/239.77.1.184:5146
-#EXTINF:-1 tvg-name="四合一频道" tvg-logo="https://live.fanmingming.com/tv/四合一频道.png" group-title="4广东电信",四合一频道
-http://newkoyuen.familyds.com:4000/rtp/239.77.1.107:5146
-#EXTINF:-1 tvg-name="九合一频道" tvg-logo="https://live.fanmingming.com/tv/九合一频道.png" group-title="4广东电信",九合一频道
-http://newkoyuen.familyds.com:4000/rtp/239.77.1.234:5146
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="4广东电信",CCTV-2 (CAVS)
 http://newkoyuen.familyds.com:4000/rtp/239.253.43.17:5146
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="4广东电信",CCTV-3 (CAVS)
@@ -939,6 +923,22 @@ http://newkoyuen.familyds.com:4000/rtp/239.77.0.161:5146
 http://newkoyuen.familyds.com:4000/rtp/239.77.0.163:5146
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="4广东电信",金鹰纪实 (CAVS)
 http://newkoyuen.familyds.com:4000/rtp/239.77.0.162:5146
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4广东电信",CCTV-4k
+http://newkoyuen.familyds.com:4000/rtp/239.77.0.194:5146
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4广东电信",CCTV-4k
+http://newkoyuen.familyds.com:4000/rtp/239.77.0.174:5146
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4广东电信",CCTV-4k
+http://newkoyuen.familyds.com:4000/rtp/239.77.1.180:5146
+#EXTINF:-1 tvg-name="广东4K" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="4广东电信",广东-4k
+http://newkoyuen.familyds.com:4000/rtp/239.77.0.244:5146
+#EXTINF:-1 tvg-name="广东4K" tvg-logo="https://live.fanmingming.com/tv/广东4K.png" group-title="4广东电信",广东-4k
+http://newkoyuen.familyds.com:4000/rtp/239.77.0.252:5146
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="4广东电信",南国都市4k
+http://newkoyuen.familyds.com:4000/rtp/239.253.43.99:5146
+#EXTINF:-1 tvg-name="四合一频道" tvg-logo="https://live.fanmingming.com/tv/四合一频道.png" group-title="4广东电信",四合一频道
+http://newkoyuen.familyds.com:4000/rtp/239.77.1.107:5146
+#EXTINF:-1 tvg-name="九合一频道" tvg-logo="https://live.fanmingming.com/tv/九合一频道.png" group-title="4广东电信",九合一频道
+http://newkoyuen.familyds.com:4000/rtp/239.77.1.234:5146
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="5四川电信",CCTV1
@@ -975,8 +975,6 @@ http://dsm.ccb912.top:9998/rtp/239.93.0.103:5140
 http://dsm.ccb912.top:9998/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="5四川电信",CCTV5＋
 http://dsm.ccb912.top:9998/rtp/239.93.1.36:8004
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="5四川电信",CCTV4K
-http://dsm.ccb912.top:9998/rtp/239.93.42.42:5140
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="5四川电信",CETV1
 http://dsm.ccb912.top:9998/rtp/239.93.1.111:5140
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="5四川电信",CETV2
@@ -1013,16 +1011,6 @@ http://dsm.ccb912.top:9998/rtp/239.93.42.6:5140
 http://dsm.ccb912.top:9998/rtp/239.93.42.5:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="5四川电信",CHC动作电影
 http://dsm.ccb912.top:9998/rtp/239.93.42.7:5140
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="5四川电信",欢笑剧场4K
-http://dsm.ccb912.top:9998/rtp/239.93.0.145:5140
-#EXTINF:-1 tvg-name="绚影4K专区" tvg-logo="https://live.fanmingming.com/tv/绚影4K专区.png" group-title="5四川电信",绚影4K专区
-http://dsm.ccb912.top:9998/rtp/239.93.42.33:5140
-#EXTINF:-1 tvg-name="亲子趣学4k专区" tvg-logo="https://live.fanmingming.com/tv/亲子趣学4k专区.png" group-title="5四川电信",亲子趣学4k专区
-http://dsm.ccb912.top:9998/rtp/239.93.1.191:5140
-#EXTINF:-1 tvg-name="中录动漫4K专区" tvg-logo="https://live.fanmingming.com/tv/中录动漫4K专区.png" group-title="5四川电信",中录动漫4K专区
-http://dsm.ccb912.top:9998/rtp/239.93.1.188:5140
-#EXTINF:-1 tvg-name="4K乐享超清专区" tvg-logo="https://live.fanmingming.com/tv/4K乐享超清专区.png" group-title="5四川电信",4K乐享超清专区
-http://dsm.ccb912.top:9998/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="5四川电信",四川卫视
 http://dsm.ccb912.top:9998/rtp/239.93.0.20:1235
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="5四川电信",湖南卫视
@@ -1295,6 +1283,18 @@ http://dsm.ccb912.top:9998/rtp/239.93.0.178:5140
 http://dsm.ccb912.top:9998/rtp/239.93.0.209:5140
 #EXTINF:-1 tvg-name="创新及人才文化节" tvg-logo="https://live.fanmingming.com/tv/创新及人才文化节.png" group-title="5四川电信",创新及人才文化节
 http://dsm.ccb912.top:9998/rtp/239.93.42.59:5140
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="5四川电信",CCTV4K
+http://dsm.ccb912.top:9998/rtp/239.93.42.42:5140
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="5四川电信",欢笑剧场4K
+http://dsm.ccb912.top:9998/rtp/239.93.0.145:5140
+#EXTINF:-1 tvg-name="绚影4K专区" tvg-logo="https://live.fanmingming.com/tv/绚影4K专区.png" group-title="5四川电信",绚影4K专区
+http://dsm.ccb912.top:9998/rtp/239.93.42.33:5140
+#EXTINF:-1 tvg-name="亲子趣学4k专区" tvg-logo="https://live.fanmingming.com/tv/亲子趣学4k专区.png" group-title="5四川电信",亲子趣学4k专区
+http://dsm.ccb912.top:9998/rtp/239.93.1.191:5140
+#EXTINF:-1 tvg-name="中录动漫4K专区" tvg-logo="https://live.fanmingming.com/tv/中录动漫4K专区.png" group-title="5四川电信",中录动漫4K专区
+http://dsm.ccb912.top:9998/rtp/239.93.1.188:5140
+#EXTINF:-1 tvg-name="4K乐享超清专区" tvg-logo="https://live.fanmingming.com/tv/4K乐享超清专区.png" group-title="5四川电信",4K乐享超清专区
+http://dsm.ccb912.top:9998/rtp/239.93.0.43:5140
 
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="9青海电信",CCTV-1
