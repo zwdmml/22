@@ -1013,6 +1013,8 @@ http://dsm.ccb912.top:9998/rtp/239.93.42.6:5140
 http://dsm.ccb912.top:9998/rtp/239.93.42.5:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="5四川电信",CHC动作电影
 http://dsm.ccb912.top:9998/rtp/239.93.42.7:5140
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="5四川电信",欢笑剧场4K
+http://dsm.ccb912.top:9998/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-name="绚影4K专区" tvg-logo="https://live.fanmingming.com/tv/绚影4K专区.png" group-title="5四川电信",绚影4K专区
 http://dsm.ccb912.top:9998/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-name="亲子趣学4k专区" tvg-logo="https://live.fanmingming.com/tv/亲子趣学4k专区.png" group-title="5四川电信",亲子趣学4k专区
@@ -1129,8 +1131,6 @@ http://dsm.ccb912.top:9998/rtp/239.93.1.165:5140
 http://dsm.ccb912.top:9998/rtp/239.93.42.35:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="5四川电信",都市剧场
 http://dsm.ccb912.top:9998/rtp/239.93.42.30:5140
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png" group-title="5四川电信",欢笑剧场4K
-http://dsm.ccb912.top:9998/rtp/239.93.0.145:5140
 #EXTINF:-1 tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="5四川电信",求索记录
 http://dsm.ccb912.top:9998/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="5四川电信",生活时尚
