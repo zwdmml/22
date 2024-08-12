@@ -769,20 +769,14 @@ http://newkoyuen.familyds.com:4000/rtp/239.253.43.74:5146
 http://newkoyuen.familyds.com:4000/rtp/239.77.1.124:5146
 #EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://live.fanmingming.com/tv/深圳财经生活.png" group-title="4广东电信",深圳财经生活
 http://newkoyuen.familyds.com:4000/rtp/239.77.1.242:5146
-#EXTINF:-1 tvg-name="深圳娱乐" tvg-logo="https://live.fanmingming.com/tv/深圳娱乐.png" group-title="4广东电信",深圳娱乐频道
-http://newkoyuen.familyds.com:4000/rtp/239.77.1.243:5146
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://live.fanmingming.com/tv/深圳电视剧.png" group-title="4广东电信",深圳电视剧频道
 http://newkoyuen.familyds.com:4000/rtp/239.77.1.7:5146
 #EXTINF:-1 tvg-name="深圳体育" tvg-logo="https://live.fanmingming.com/tv/深圳体育.png" group-title="4广东电信",深圳体育健康
 http://newkoyuen.familyds.com:4000/rtp/239.77.1.8:5146
-#EXTINF:-1 tvg-name="深圳公共" tvg-logo="https://live.fanmingming.com/tv/深圳公共.png" group-title="4广东电信",深圳公共频道
-http://newkoyuen.familyds.com:4000/rtp/239.77.1.9:5146
 #EXTINF:-1 tvg-name="深圳宝安" tvg-logo="https://live.fanmingming.com/tv/深圳宝安.png" group-title="4广东电信",深圳宝安频道
 http://newkoyuen.familyds.com:4000/rtp/239.77.1.67:5146
 #EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://live.fanmingming.com/tv/深圳宜和购物.png" group-title="4广东电信",深圳宜和购物
 http://newkoyuen.familyds.com:4000/rtp/239.77.1.87:5146
-#EXTINF:-1 tvg-name="深圳公共" tvg-logo="https://live.fanmingming.com/tv/深圳公共.png" group-title="4广东电信",深圳公共频道
-http://newkoyuen.familyds.com:4000/rtp/239.77.1.126:5146
 #EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://live.fanmingming.com/tv/深圳体育健康.png" group-title="4广东电信",深圳体育健康
 http://newkoyuen.familyds.com:4000/rtp/239.77.1.128:5146
 #EXTINF:-1 tvg-name="深圳龙岗" tvg-logo="https://live.fanmingming.com/tv/深圳龙岗.png" group-title="4广东电信",深圳龙岗频道
