@@ -1447,22 +1447,22 @@ http://dsm.ccb912.top:9998/rtp/239.93.1.188:5140
 http://dsm.ccb912.top:9998/rtp/239.93.0.43:5140
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/新闻综合.png" group-title="6上海电信",新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海新闻综合.png" group-title="6上海电信",新闻综合
 http://wengjing.top:9009/rtp/239.45.3.209:5140
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/都市频道.png" group-title="6上海电信",都市频道
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="6上海电信",都市频道
 http://wengjing.top:9009/rtp/239.45.3.236:5140
 #EXTINF:-1 tvg-name="上海东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="6上海电信",东方影视
 http://wengjing.top:9009/rtp/239.45.3.237:5140
-#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/外语频道.png" group-title="6上海电信",外语频道
+#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="6上海电信",外语频道
 http://wengjing.top:9009/rtp/239.45.1.127:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="6上海电信",五星体育
 http://wengjing.top:9009/rtp/239.45.3.210:5140
-#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="6上海电信",第一财经
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="6上海电信",上海教育
+http://wengjing.top:9009/rtp/239.45.0.13:5140
+#EXTINF:-1 tvg-name="上海第一财经" tvg-logo="https://live.fanmingming.com/tv/上海第一财经.png" group-title="6上海电信",第一财经
 http://wengjing.top:9009/rtp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="6上海电信",东方财经
 http://wengjing.top:9009/rtp/239.45.0.17:5140
-#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="6上海电信",上海教育
-http://wengjing.top:9009/rtp/239.45.0.13:5140
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="6上海电信",生活时尚
 http://wengjing.top:9009/rtp/239.45.3.132:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="6上海电信",都市剧场
@@ -1495,37 +1495,35 @@ http://wengjing.top:9009/rtp/239.45.0.40:5140
 http://wengjing.top:9009/rtp/239.45.0.41:5140
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="6上海电信",CHC影迷电影
 http://wengjing.top:9009/rtp/239.45.0.42:5140
-#EXTINF:-1 tvg-name="CCTV电视指南" tvg-logo="https://live.fanmingming.com/tv/CCTV电视指南.png" group-title="6上海电信",CCTV电视指南
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="6上海电信",CCTV电视指南
 http://wengjing.top:9009/rtp/239.45.1.73:5140
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="6上海电信",CCTV风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="6上海电信",CCTV风云足球
 http://wengjing.top:9009/rtp/239.45.0.43:5140
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://live.fanmingming.com/tv/CCTV风云足球.png" group-title="6上海电信",CCTV风云足球
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="6上海电信",CCTV风云足球
 http://wengjing.top:9009/rtp/239.45.1.75:5140
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://live.fanmingming.com/tv/CCTV央视台球.png" group-title="6上海电信",CCTV央视台球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="6上海电信",CCTV央视台球
 http://wengjing.top:9009/rtp/239.45.0.44:5140
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" group-title="6上海电信",CCTV兵器科技
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="6上海电信",CCTV兵器科技
 http://wengjing.top:9009/rtp/239.45.0.45:5140
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV兵器科技.png" group-title="6上海电信",CCTV兵器科技
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="6上海电信",CCTV兵器科技
 http://wengjing.top:9009/rtp/239.45.1.74:5140
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://live.fanmingming.com/tv/CCTV世界地理.png" group-title="6上海电信",CCTV世界地理
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="6上海电信",CCTV世界地理
 http://wengjing.top:9009/rtp/239.45.0.46:5140
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://live.fanmingming.com/tv/CCTV女性时尚.png" group-title="6上海电信",CCTV女性时尚
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="6上海电信",CCTV女性时尚
 http://wengjing.top:9009/rtp/239.45.0.47:5140
-#EXTINF:-1 tvg-name="CCTV高网" tvg-logo="https://live.fanmingming.com/tv/CCTV高网.png" group-title="6上海电信",CCTV高网
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="6上海电信",CCTV高尔夫网球
 http://wengjing.top:9009/rtp/239.45.0.48:5140
-#EXTINF:-1 tvg-name="CCTV高网" tvg-logo="https://live.fanmingming.com/tv/CCTV高网.png" group-title="6上海电信",CCTV高网
-http://wengjing.top:9009/rtp/239.45.1.72:5140
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV怀旧剧场.png" group-title="6上海电信",CCTV怀旧剧场
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="6上海电信",CCTV怀旧剧场
 http://wengjing.top:9009/rtp/239.45.0.49:5140
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV风云剧场.png" group-title="6上海电信",CCTV风云剧场
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="6上海电信",CCTV风云剧场
 http://wengjing.top:9009/rtp/239.45.0.50:5140
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.com/tv/CCTV第一剧场.png" group-title="6上海电信",CCTV第一剧场
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="6上海电信",CCTV第一剧场
 http://wengjing.top:9009/rtp/239.45.0.51:5140
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV风云音乐.png" group-title="6上海电信",CCTV风云音乐
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="6上海电信",CCTV风云音乐
 http://wengjing.top:9009/rtp/239.45.0.52:5140
-#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV文化精品.png" group-title="6上海电信",CCTV文化精品
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="6上海电信",CCTV文化精品
 http://wengjing.top:9009/rtp/239.45.0.53:5140
-#EXTINF:-1 tvg-name="CCTV文化精品" tvg-logo="https://live.fanmingming.com/tv/CCTV文化精品.png" group-title="6上海电信",CCTV文化精品
+#EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="6上海电信",CCTV文化精品
 http://wengjing.top:9009/rtp/239.45.1.17:5140
 #EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://live.fanmingming.com/tv/CETV早期教育.png" group-title="6上海电信",CETV早期教育
 http://wengjing.top:9009/rtp/239.45.0.54:5140
@@ -1651,10 +1649,10 @@ http://wengjing.top:9009/rtp/239.45.1.83:5140
 http://wengjing.top:9009/rtp/239.45.0.56:5140
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="6上海电信",延边卫视
 http://wengjing.top:9009/rtp/239.45.0.39:5140
-#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="6上海电信",茶频道
-http://wengjing.top:9009/rtp/239.45.3.18:5140
 #EXTINF:-1 tvg-name="嘉定电视" tvg-logo="https://live.fanmingming.com/tv/嘉定电视.png" group-title="6上海电信",嘉定电视
 http://wengjing.top:9009/rtp/239.45.3.185:5140
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="6上海电信",茶频道
+http://wengjing.top:9009/rtp/239.45.3.18:5140
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="6上海电信",快乐垂钓
 http://wengjing.top:9009/rtp/239.45.3.12:5140
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="6上海电信",七彩戏剧
@@ -1663,8 +1661,6 @@ http://wengjing.top:9009/rtp/239.45.0.16:5140
 http://wengjing.top:9009/rtp/239.45.3.43:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="6上海电信",游戏风云
 http://wengjing.top:9009/rtp/239.45.3.131:5140
-#EXTINF:-1 tvg-name="未知频道" tvg-logo="https://live.fanmingming.com/tv/未知频道.png" group-title="6上海电信",未知频道
-http://wengjing.top:9009/rtp/239.45.3.103:5140
 #EXTINF:-1 tvg-name="养生频道" tvg-logo="https://live.fanmingming.com/tv/养生频道.png" group-title="6上海电信",养生频道
 http://wengjing.top:9009/rtp/239.45.1.28:5140
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="6上海电信",财富天下
