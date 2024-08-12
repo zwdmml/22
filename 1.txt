@@ -1097,8 +1097,6 @@ http://dsm.ccb912.top:9998/rtp/239.93.1.102:5140
 http://dsm.ccb912.top:9998/rtp/239.93.0.47:5140
 #EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川电信",四川影视文艺
 http://dsm.ccb912.top:9998/rtp/239.93.0.166:5140
-#EXTINF:-1 tvg-name="四川星空购物" tvg-logo="https://live.fanmingming.com/tv/四川星空购物.png" group-title="四川电信",四川星空购物
-http://dsm.ccb912.top:9998/rtp/239.93.1.144:5140
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川电信",四川妇女儿童
 http://dsm.ccb912.top:9998/rtp/239.93.0.219:5140
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川电信",SCTV科教
@@ -1445,7 +1443,7 @@ http://dsm.ccb912.top:9998/rtp/239.93.1.188:5140
 http://dsm.ccb912.top:9998/rtp/239.93.0.43:5140
 
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上海新闻综合.png" group-title="上海电信",新闻综合
+#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="上海电信",新闻综合
 http://wengjing.top:9009/rtp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海电信",都市频道
 http://wengjing.top:9009/rtp/239.45.3.236:5140
@@ -1523,7 +1521,7 @@ http://wengjing.top:9009/rtp/239.45.0.52:5140
 http://wengjing.top:9009/rtp/239.45.0.53:5140
 #EXTINF:-1 tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="上海电信",CCTV文化精品
 http://wengjing.top:9009/rtp/239.45.1.17:5140
-#EXTINF:-1 tvg-name="CETV早期教育" tvg-logo="https://live.fanmingming.com/tv/CETV早期教育.png" group-title="上海电信",CETV早期教育
+#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.com/tv/早期教育.png" group-title="上海电信",CETV早期教育
 http://wengjing.top:9009/rtp/239.45.0.54:5140
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="上海电信",CETV1
 http://wengjing.top:9009/rtp/239.45.1.125:5140
