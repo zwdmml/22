@@ -1837,20 +1837,6 @@ http://cywifi.011527.xyz:55555/udp/239.76.246.94:1234
 http://cywifi.011527.xyz:55555/udp/239.76.254.132:9000
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png" group-title="湖南电信",中国教育1台
 http://cywifi.011527.xyz:55555/udp/239.76.245.192:1234
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="湖南电信",金色学堂
-http://175.3.232.168:8888/udp/239.76.253.139:9000
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="湖南电信",都市剧场
-http://175.3.232.168:8888/udp/239.76.246.215:1234
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="湖南电信",游戏风云
-http://175.3.232.168:8888/udp/239.76.253.132:9000
-#EXTINF:-1 tvg-name="极速汽车" tvg-logo="https://live.fanmingming.com/tv/极速汽车.png" group-title="湖南电信",极速汽车
-http://175.3.232.168:8888/udp/239.76.253.133:9000
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="湖南电信",动漫秀场
-http://175.3.232.168:8888/udp/239.76.253.131:9000
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="湖南电信",法治天地
-http://cywifi.011527.xyz:55555/udp/239.76.246.138:1234
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="湖南电信",生活时尚
-http://cywifi.011527.xyz:55555/udp/239.76.246.223:1234
 #EXTINF:-1 tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="湖南电信",河南梨园
 http://cywifi.011527.xyz:55555/udp/239.76.245.179:1234
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="湖南电信",文物宝库
@@ -1884,21 +1870,21 @@ http://cywifi.011527.xyz:55555/udp/239.76.245.234:1234
 #EXTINF:-1 tvg-name="湘西综合" tvg-logo="https://live.fanmingming.com/tv/湘西综合.png" group-title="湖南电信",湘西综合
 http://cywifi.011527.xyz:55555/udp/239.76.245.208:1234
 #EXTINF:-1 tvg-name="湘西公共" tvg-logo="https://live.fanmingming.com/tv/湘西公共.png" group-title="湖南电信",湘西公共
-http://175.3.232.168:8888/udp/239.76.252.209:9000
+http://cywifi.011527.xyz:55555/udp/239.76.252.209:9000
 #EXTINF:-1 tvg-name="浏阳" tvg-logo="https://live.fanmingming.com/tv/浏阳.png" group-title="湖南电信",浏阳
-http://175.3.232.168:8888/udp/239.76.248.6:1234
+http://cywifi.011527.xyz:55555/udp/239.76.248.6:1234
 #EXTINF:-1 tvg-name="常德综合" tvg-logo="https://live.fanmingming.com/tv/常德综合.png" group-title="湖南电信",常德综合
-http://175.3.232.168:8888/udp/239.76.248.10:1234
+http://cywifi.011527.xyz:55555/udp/239.76.248.10:1234
 #EXTINF:-1 tvg-name="常德公共" tvg-logo="https://live.fanmingming.com/tv/常德公共.png" group-title="湖南电信",常德公共
-http://175.3.232.168:8888/udp/239.76.248.11:1234
+http://cywifi.011527.xyz:55555/udp/239.76.248.11:1234
 #EXTINF:-1 tvg-name="衡阳综合" tvg-logo="https://live.fanmingming.com/tv/衡阳综合.png" group-title="湖南电信",衡阳综合
-http://175.3.232.168:8888/udp/239.76.248.13:1234
+http://cywifi.011527.xyz:55555/udp/239.76.248.13:1234
 #EXTINF:-1 tvg-name="衡阳公共" tvg-logo="https://live.fanmingming.com/tv/衡阳公共.png" group-title="湖南电信",衡阳公共
-http://175.3.232.168:8888/udp/239.76.248.14:1234
+http://cywifi.011527.xyz:55555/udp/239.76.248.14:1234
 #EXTINF:-1 tvg-name="娄底综合" tvg-logo="https://live.fanmingming.com/tv/娄底综合.png" group-title="湖南电信",娄底综合
-http://175.3.232.168:8888/udp/239.76.248.18:1234
+http://cywifi.011527.xyz:55555/udp/239.76.248.18:1234
 #EXTINF:-1 tvg-name="娄底公共" tvg-logo="https://live.fanmingming.com/tv/娄底公共.png" group-title="湖南电信",娄底公共
-http://175.3.232.168:8888/udp/239.76.248.19:1234
+http://cywifi.011527.xyz:55555/udp/239.76.248.19:1234
 #EXTINF:-1 tvg-name="LDETV" tvg-logo="https://live.fanmingming.com/tv/LDETV.png" group-title="湖南电信",LDETV
 http://cywifi.011527.xyz:55555/udp/239.76.248.20:1234
 #EXTINF:-1 tvg-name="XNXTV" tvg-logo="https://live.fanmingming.com/tv/XNXTV.png" group-title="湖南电信",XNXTV
@@ -1907,44 +1893,6 @@ http://cywifi.011527.xyz:55555/udp/239.76.248.21:1234
 http://cywifi.011527.xyz:55555/udp/239.76.248.57:1234
 #EXTINF:-1 tvg-name="怀化综合" tvg-logo="https://live.fanmingming.com/tv/怀化综合.png" group-title="湖南电信",怀化综合
 http://cywifi.011527.xyz:55555/udp/239.76.255.12:9000
-#EXTINF:-1 tvg-name="IPTV芒果互娱" tvg-logo="https://live.fanmingming.com/tv/IPTV芒果互娱.png" group-title="湖南电信",IPTV芒果互娱
-http://175.3.232.168:8888/udp/239.76.246.126:1234
-#EXTINF:-1 tvg-name="健康电视" tvg-logo="https://live.fanmingming.com/tv/健康电视.png" group-title="湖南电信",健康电视
-http://175.3.232.168:8888/udp/239.76.246.127:1234
-#EXTINF:-1 tvg-name="芒果乐淘" tvg-logo="https://live.fanmingming.com/tv/芒果乐淘.png" group-title="湖南电信",芒果乐淘
-http://cywifi.011527.xyz:55555/udp/239.76.245.215:1234
-#EXTINF:-1 tvg-name="芒果乐搜" tvg-logo="https://live.fanmingming.com/tv/芒果乐搜.png" group-title="湖南电信",芒果乐搜
-http://cywifi.011527.xyz:55555/udp/239.76.245.200:1234
-#EXTINF:-1 tvg-name="芒果乐活" tvg-logo="https://live.fanmingming.com/tv/芒果乐活.png" group-title="湖南电信",芒果乐活
-http://cywifi.011527.xyz:55555/udp/239.76.245.201:1234
-#EXTINF:-1 tvg-name="芒果汽车" tvg-logo="https://live.fanmingming.com/tv/芒果汽车.png" group-title="湖南电信",芒果汽车
-http://175.3.232.168:8888/udp/239.76.253.123:9000
-#EXTINF:-1 tvg-name="IPTV电竞" tvg-logo="https://live.fanmingming.com/tv/IPTV电竞.png" group-title="湖南电信",IPTV电竞
-http://cywifi.011527.xyz:55555/udp/239.76.245.136:1234
-#EXTINF:-1 tvg-name="IPTV高清院线" tvg-logo="https://live.fanmingming.com/tv/IPTV高清院线.png" group-title="湖南电信",IPTV高清院线
-http://cywifi.011527.xyz:55555/udp/239.76.245.217:1234
-#EXTINF:-1 tvg-name="IPTV抗战剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV抗战剧场.png" group-title="湖南电信",IPTV抗战剧场
-http://cywifi.011527.xyz:55555/udp/239.76.245.218:1234
-#EXTINF:-1 tvg-name="IPTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV古装剧场.png" group-title="湖南电信",IPTV古装剧场
-http://cywifi.011527.xyz:55555/udp/239.76.245.219:1234
-#EXTINF:-1 tvg-name="IPTV经典剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV经典剧场.png" group-title="湖南电信",IPTV经典剧场
-http://cywifi.011527.xyz:55555/udp/239.76.245.221:1234
-#EXTINF:-1 tvg-name="IPTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/IPTV家庭剧场.png" group-title="湖南电信",IPTV家庭剧场
-http://cywifi.011527.xyz:55555/udp/239.76.245.220:1234
-#EXTINF:-1 tvg-name="IPTV广场舞" tvg-logo="https://live.fanmingming.com/tv/IPTV广场舞.png" group-title="湖南电信",IPTV广场舞
-http://cywifi.011527.xyz:55555/udp/239.76.245.134:1234
-#EXTINF:-1 tvg-name="IPTV故事频道" tvg-logo="https://live.fanmingming.com/tv/IPTV故事频道.png" group-title="湖南电信",IPTV故事频道
-http://cywifi.011527.xyz:55555/udp/239.76.246.41:1234
-#EXTINF:-1 tvg-name="IPTV戏曲频道" tvg-logo="https://live.fanmingming.com/tv/IPTV戏曲频道.png" group-title="湖南电信",IPTV戏曲频道
-http://cywifi.011527.xyz:55555/udp/239.76.246.40:1234
-#EXTINF:-1 tvg-name="IPTV健康之路" tvg-logo="https://live.fanmingming.com/tv/IPTV健康之路.png" group-title="湖南电信",IPTV健康之路
-http://cywifi.011527.xyz:55555/udp/239.76.246.42:1234
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png" group-title="湖南电信",欢笑剧场4K
-http://175.3.232.168:8888/udp/239.76.253.130:9000
-#EXTINF:-1 tvg-name="IPTV4k电影" tvg-logo="https://live.fanmingming.com/tv/IPTV4k电影.png" group-title="湖南电信",IPTV4k电影
-http://175.3.232.168:8888/udp/239.76.252.35:9000
-#EXTINF:-1 tvg-name="IPTV4k" tvg-logo="https://live.fanmingming.com/tv/IPTV4k.png" group-title="湖南电信",IPTV4k
-http://cywifi.011527.xyz:55555/udp/239.76.245.35:1234
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="湖南电信",CCTV-16 4K
 http://cywifi.011527.xyz:55555/udp/239.76.246.214:1234
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="湖南电信",CCTV-16 4k
