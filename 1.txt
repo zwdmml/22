@@ -1711,9 +1711,9 @@ http://cywifi.011527.xyz:55555/udp/239.76.245.124:1234
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://live.fanmingming.com/tv/湖南爱晚.png" group-title="湖南电信",湖南公共
 http://cywifi.011527.xyz:55555/udp/239.76.245.123:1234
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="湖南电信",凤凰中文
-http://cywifi.011527.xyz:55555/udp/239.76.246.134:1234
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="湖南电信",凤凰资讯
 http://cywifi.011527.xyz:55555/udp/239.76.246.135:1234
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰资讯.png" group-title="湖南电信",凤凰资讯
+http://cywifi.011527.xyz:55555/udp/239.76.246.134:1234
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="湖南电信",CHC动作电影
 http://cywifi.011527.xyz:55555/udp/239.76.245.243:1234
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="湖南电信",CHC影迷电影
