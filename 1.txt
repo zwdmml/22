@@ -297,7 +297,7 @@ http://sesamehome.win:8012/rtp/239.3.1.54:4120
 http://sesamehome.win:8012/rtp/239.3.1.55:4120
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="北京联通",CETV4
 http://sesamehome.win:8012/rtp/239.3.1.56:4120
-#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育卫视.png" group-title="北京联通",山东教育卫视
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="北京联通",山东教育卫视
 http://sesamehome.win:8012/rtp/239.3.1.52:4120
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="北京联通",湖南卫视
 http://sesamehome.win:8012/rtp/239.3.1.132:8012
