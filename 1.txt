@@ -1026,7 +1026,7 @@ http://newkoyuen.familyds.com:4000/rtp/239.253.43.17:5146
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="广东电信",CCTV-3 (CAVS)
 http://newkoyuen.familyds.com:4000/rtp/239.77.0.175:5146
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="广东电信",CCTV-5 (CAVS)
-http://www.zz49.top:4022/rtp/239.77.0.177:5146
+http://newkoyuen.familyds.com:4000/rtp/239.77.0.177:5146
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="广东电信",CCTV-6 (CAVS)
 http://newkoyuen.familyds.com:4000/rtp/239.77.0.178:5146
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="广东电信",CCTV-7 (CAVS)
