@@ -205,6 +205,18 @@ http://sesamehome.win:8012/rtp/239.3.1.189:8000
 http://sesamehome.win:8012/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://live.fanmingming.com/tv/北京国际.png" group-title="北京联通",北京国际
 http://sesamehome.win:8012/rtp/239.3.1.235:8000
+#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="北京联通",淘电影
+http://sesamehome.win:8012/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://live.fanmingming.com/tv/淘剧场.png" group-title="北京联通",淘剧场
+http://sesamehome.win:8012/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-name=" tvg-logo="https://live.淘精彩"fanmingming.com/tv/淘精彩.png" group-title="北京联通",淘精彩
+http://sesamehome.win:8012/rtp/239.3.1.178:8001
+#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://live.fanmingming.com/tv/淘娱乐.png" group-title="北京联通",淘娱乐
+http://sesamehome.win:8012/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-name="淘Baby" tvg-logo="https://live.fanmingming.com/tv/淘Baby.png" group-title="北京联通",淘Baby
+http://sesamehome.win:8012/rtp/239.3.1.238:8001
+#EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://live.fanmingming.com/tv/萌宠TV.png" group-title="北京联通",萌宠TV
+http://sesamehome.win:8012/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="北京联通",CCTV-1
 http://sesamehome.win:8012/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="北京联通",CCTV-2
@@ -245,18 +257,6 @@ http://sesamehome.win:8012/rtp/239.3.1.153:8136
 http://sesamehome.win:8012/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="北京联通",CCTV-17
 http://sesamehome.win:8012/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="北京联通",淘电影
-http://sesamehome.win:8012/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-name="淘剧场" tvg-logo="https://live.fanmingming.com/tv/淘剧场.png" group-title="北京联通",淘剧场
-http://sesamehome.win:8012/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-name=" tvg-logo="https://live.淘精彩"fanmingming.com/tv/淘精彩.png" group-title="北京联通",淘精彩
-http://sesamehome.win:8012/rtp/239.3.1.178:8001
-#EXTINF:-1 tvg-name="淘娱乐" tvg-logo="https://live.fanmingming.com/tv/淘娱乐.png" group-title="北京联通",淘娱乐
-http://sesamehome.win:8012/rtp/239.3.1.100:8001
-#EXTINF:-1 tvg-name="淘Baby" tvg-logo="https://live.fanmingming.com/tv/淘Baby.png" group-title="北京联通",淘Baby
-http://sesamehome.win:8012/rtp/239.3.1.238:8001
-#EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://live.fanmingming.com/tv/萌宠TV.png" group-title="北京联通",萌宠TV
-http://sesamehome.win:8012/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="北京联通",睛彩竞技
 http://sesamehome.win:8012/rtp/239.3.1.125:8001
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="北京联通",睛彩篮球
