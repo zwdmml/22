@@ -465,8 +465,6 @@ http://sesamehome.win:8012/rtp/239.3.1.77:4120
 http://sesamehome.win:8012/rtp/239.3.1.188:8001
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="北京联通",CCTV-4K
 http://sesamehome.win:8012/rtp/239.3.1.245:2000
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="北京联通",CCTV-16 4K
-http://sesamehome.win:8012/rtp/239.3.1.183:8001
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="北京联通",爱上4K
 http://sesamehome.win:8012/rtp/239.3.1.236:2000
 #EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="北京联通",北京IPTV4K
@@ -1664,14 +1662,8 @@ http://wengjing.top:9009/rtp/239.45.3.240:5140
 http://wengjing.top:9009/rtp/239.45.1.108:5140
 #EXTINF:-1 tvg-name="BesTV4k动画" tvg-logo="https://live.fanmingming.com/tv/BesTV4k动画.png" group-title="上海电信",BesTV4k动画
 http://wengjing.top:9009/rtp/239.45.1.11:5140
-#EXTINF:-1 tvg-name="BesTV4k动画" tvg-logo="https://live.fanmingming.com/tv/BesTV4k动画.png" group-title="上海电信",BesTV4k动画
-http://wengjing.top:9009/rtp/239.45.1.1:5140
-#EXTINF:-1 tvg-name="BesTV4k电影" tvg-logo="https://live.fanmingming.com/tv/BesTV4k电影.png" group-title="上海电信",BesTV4k电影
-http://wengjing.top:9009/rtp/239.45.3.107:5140
 #EXTINF:-1 tvg-name="BesTV4k电影" tvg-logo="https://live.fanmingming.com/tv/BesTV4k电影.png" group-title="上海电信",BesTV4k电影
 http://wengjing.top:9009/rtp/239.45.1.42:5140
-#EXTINF:-1 tvg-name="BesTV4k电影" tvg-logo="https://live.fanmingming.com/tv/BesTV4k电影.png" group-title="上海电信",BesTV4k电影
-http://wengjing.top:9009/rtp/239.45.1.9:5140
 #EXTINF:-1 tvg-name="BesTV4k记录" tvg-logo="https://live.fanmingming.com/tv/BesTV4k记录.png" group-title="上海电信",BesTV4k记录
 http://wengjing.top:9009/rtp/239.45.1.10:5140
 #EXTINF:-1 tvg-name="欢笑剧场4k" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4k.png" group-title="上海电信",欢笑剧场4k
