@@ -941,8 +941,6 @@ http://newkoyuen.familyds.com:4000/rtp/239.77.0.206:5146
 http://newkoyuen.familyds.com:4000/rtp/239.77.0.207:5146
 #EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://live.fanmingming.com/tv/揭阳综合.png" group-title="广东电信",揭阳综合
 http://newkoyuen.familyds.com:4000/rtp/239.77.0.229:5146
-#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://live.fanmingming.com/tv/揭阳综合.png" group-title="广东电信",揭阳综合
-http://newkoyuen.familyds.com:4000/rtp/239.77.0.240:5146
 #EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://live.fanmingming.com/tv/揭阳生活.png" group-title="广东电信",揭阳生活
 http://newkoyuen.familyds.com:4000/rtp/239.77.0.251:5146
 #EXTINF:-1 tvg-name="云浮综合" tvg-logo="https://live.fanmingming.com/tv/云浮综合.png" group-title="广东电信",云浮综合
