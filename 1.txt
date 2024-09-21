@@ -477,9 +477,9 @@ http://home.xshebao.com:8888/rtp/239.49.8.16:9602
 http://home.xshebao.com:8888/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.fanmingming.com/tv/江苏城市.png" group-title="江苏电信",江苏城市
 http://home.xshebao.com:8888/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="江苏电信",江苏教育
+#EXTINF:-1 tvg-name="江苏教育电视台" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="江苏电信",江苏教育
 http://home.xshebao.com:8888/rtp/239.49.8.122:8000
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="江苏电信",江苏体育休闲
+#EXTINF:-1 tvg-name="江苏休闲体育" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="江苏电信",江苏体育休闲
 http://home.xshebao.com:8888/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="江苏电信",江苏影视
 http://home.xshebao.com:8888/rtp/239.49.8.118:8000
@@ -1077,21 +1077,21 @@ http://a.ifsift.cn:8888/rtp/239.77.1.234:5146
 
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="四川电信",四川卫视
 http://dsm.ccb912.top:9998/rtp/239.93.0.20:1235
-#EXTINF:-1 tvg-name="四川新闻" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川电信",四川新闻
-http://dsm.ccb912.top:9998/rtp/239.93.0.47:5140
-#EXTINF:-1 tvg-name="四川经济" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川电信",四川经济
-http://dsm.ccb912.top:9998/rtp/239.93.1.101:5140
-#EXTINF:-1 tvg-name="四川文化旅游" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川电信",四川文化旅游
+#EXTINF:-1 tvg-name="SCTV2" tvg-logo="https://live.fanmingming.com/tv/四川文化旅游.png" group-title="四川电信",四川文化旅游
 http://dsm.ccb912.top:9998/rtp/239.93.1.102:5140
-#EXTINF:-1 tvg-name="四川影视文艺" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川电信",四川影视文艺
+#EXTINF:-1 tvg-name="SCTV3" tvg-logo="https://live.fanmingming.com/tv/四川经济.png" group-title="四川电信",四川经济
+http://dsm.ccb912.top:9998/rtp/239.93.1.101:5140
+#EXTINF:-1 tvg-name="SCTV4" tvg-logo="https://live.fanmingming.com/tv/四川新闻.png" group-title="四川电信",四川新闻
+http://dsm.ccb912.top:9998/rtp/239.93.0.47:5140
+#EXTINF:-1 tvg-name="SCTV5" tvg-logo="https://live.fanmingming.com/tv/四川影视文艺.png" group-title="四川电信",四川影视文艺
 http://dsm.ccb912.top:9998/rtp/239.93.0.166:5140
-#EXTINF:-1 tvg-name="四川妇女儿童" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川电信",四川妇女儿童
+#EXTINF:-1 tvg-name="SCTV7" tvg-logo="https://live.fanmingming.com/tv/四川妇女儿童.png" group-title="四川电信",四川妇女儿童
 http://dsm.ccb912.top:9998/rtp/239.93.0.219:5140
-#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川电信",四川科教
+#EXTINF:-1 tvg-name="SCTV8" tvg-logo="https://live.fanmingming.com/tv/四川科教.png" group-title="四川电信",四川科教
 http://dsm.ccb912.top:9998/rtp/239.93.42.44:5140
-#EXTINF:-1 tvg-name="四川乡村" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川电信",四川乡村
+#EXTINF:-1 tvg-name="SCTV9" tvg-logo="https://live.fanmingming.com/tv/四川乡村.png" group-title="四川电信",四川乡村
 http://dsm.ccb912.top:9998/rtp/239.93.0.52:5140
-#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.com/tv/四川峨眉电影.png" group-title="四川电信",峨眉电影
+#EXTINF:-1 tvg-name="SCTV10" tvg-logo="https://live.fanmingming.com/tv/四川峨眉电影.png" group-title="四川电信",峨眉电影
 http://dsm.ccb912.top:9998/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-name="CDTV1" tvg-logo="https://live.fanmingming.com/tv/cdtv1.png" group-title="四川电信",CDTV1
 http://dsm.ccb912.top:9998/rtp/239.93.0.16:5140
