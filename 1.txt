@@ -2080,9 +2080,9 @@ http://lovegfs.top:8000/udp/239.120.1.131:8268
 http://wengjing.top:9009/rtp/239.45.1.11:5140
 #EXTINF:-1 tvg-name="中录动漫4K专区" tvg-logo="https://live.fanmingming.com/tv/中录动漫4K专区.png" group-title="少儿频道",中录动漫4K专区
 http://dsm.ccb912.top:9998/rtp/239.93.1.188:5140
-#EXTINF:-1 tvg-name="淘Baby" tvg-logo="https://live.fanmingming.com/tv/淘Baby.png" group-title="少儿频道",淘Baby
+#EXTINF:-1 tvg-name="北京淘Baby" tvg-logo="https://live.fanmingming.com/tv/淘Baby.png" group-title="少儿频道",淘Baby
 http://sesamehome.win:8012/rtp/239.3.1.238:8001
-#EXTINF:-1 tvg-name="萌宠TV" tvg-logo="https://live.fanmingming.com/tv/萌宠TV.png" group-title="少儿频道",萌宠TV
+#EXTINF:-1 tvg-name="北京萌宠TV" tvg-logo="https://live.fanmingming.com/tv/萌宠TV.png" group-title="少儿频道",萌宠TV
 http://sesamehome.win:8012/rtp/239.3.1.102:8001
 #EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.com/tv/广东少儿.png" group-title="少儿频道",广东少儿
 http://a.ifsift.cn:8888/rtp/239.77.0.250:5146
@@ -2092,7 +2092,7 @@ http://192.168.0.1:4000/udp/239.120.1.193:8284
 http://192.168.0.1:4000/udp/239.120.1.108:8640
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="少儿频道",哈哈炫动
 http://192.168.0.1:4000/udp/239.120.1.140:8898
-#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷动画.png" group-title="少儿频道",卡酷动画
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="少儿频道",卡酷动画
 http://192.168.0.1:4000/udp/239.120.1.138:8886
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="少儿频道",金鹰卡通
 http://192.168.0.1:4000/udp/239.120.1.139:8892
