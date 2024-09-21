@@ -1436,7 +1436,7 @@ http://wengjing.top:9009/rtp/239.45.3.146:5140
 http://wengjing.top:9009/rtp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海电信",都市频道
 http://wengjing.top:9009/rtp/239.45.3.236:5140
-#EXTINF:-1 tvg-name="上海东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海电信",东方影视
+#EXTINF:-1 tvg-name="东方电影" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="上海电信",东方影视
 http://wengjing.top:9009/rtp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="上海电信",外语频道
 http://wengjing.top:9009/rtp/239.45.1.127:5140
